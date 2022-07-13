@@ -19,6 +19,7 @@ Luego de unos segundos, la terminal te presentara el link de la pagina del servi
 
 # C) Comandos a elegir:
 Una vez dentro, te indicara que la pagina no se ha encontrado, por lo que debemos ejecutar el comando de forma manual en la url del navegador en uso.
+
 admin/
 mi-pagina/
 listar-cursos/
@@ -65,3 +66,7 @@ Si el nombre no se encuentra, te indicara que no existen cursos con ese nombre.
 # H)Fin:
 Una vez que haya terminado de probar las diferentes funciones de la pagina, vuelva al vsc, haga click en la terminal y presione las teclas "Ctrl" + "C" para cerrar el servidor.
 -Tambien se puede cerrar el servidor con cerrar el programa, que forzara el cierre de la aplicacion y la conexion con el servidor local.
+
+## Extras:
+archivos dentro del "manejador_contenido" se encuentran en desarrollo hasta el momento de la modificacion de este archivo instructivo. En las proximas semanas, se definirá en que parte del contenido se utilizará o desechará para el proyecto final. Hasta entonces, el contenido dentro de esa aplicacion, se encontrara en un estado muy limitado en su funcionamiento en comparacion con mi-pagina.
+Cabe aclarar que esto es una preentrega y todo puede estar sujeto a cambios.
